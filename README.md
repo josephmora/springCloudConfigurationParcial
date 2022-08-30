@@ -1,0 +1,2 @@
+# springCloudConfigurationParcial
+final
